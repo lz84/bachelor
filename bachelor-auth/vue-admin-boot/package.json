@@ -14,7 +14,7 @@
     "axios": "^0.18.0",
     "element-ui": "^2.4.9",
     "js-base64": "^2.4.9",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "mockjs": "^1.0.1-beta3",
     "rxjs": "^6.3.3",
     "velocity-animate": "^1.5.2",
