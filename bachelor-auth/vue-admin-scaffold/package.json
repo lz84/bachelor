@@ -15,7 +15,7 @@
     "diff-match-patch": "^1.0.5",
     "element-ui": "^2.13.2",
     "js-base64": "^2.6.3",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "mockjs": "^1.1.0",
     "node-sass": "^4.14.1",
     "rxjs": "^6.6.0",
